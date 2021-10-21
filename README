@@ -1,3 +1,7 @@
+##########
+#  Beer. #
+##########
+
 usage: beer [--version] [--help] [-O <path>] [--verbose] <command> [<args>]
 
 These are common beer commands used in various situations:
